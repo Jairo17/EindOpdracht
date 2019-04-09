@@ -1,5 +1,7 @@
 <?php
 
+echo "STUDENT: ";
+
 class Student {
 
 }
